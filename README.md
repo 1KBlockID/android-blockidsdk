@@ -1,5 +1,8 @@
 # Change Logs
 
+- v1.4.88
+1. Worng NationalID document number issue fixed
+
 - v1.4.87
 1. PDF417 scanning improvement
 2. MRZ scanning improvement
