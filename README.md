@@ -1,7 +1,8 @@
 # Change Logs
 
 **- v1.4.88**
-1. Worng NationalID document number issue fixed
+1. Bug fixed - wrong NationalID document number issue fixed
+2. Bug fixed - internal error during document scan 
 
 **- v1.4.87**
 1. PDF417 scanning improvement
