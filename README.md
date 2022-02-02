@@ -1,4 +1,7 @@
 # Change Logs
+- v1.4.96
+1. Provides Document Verification Service for face liveness check
+
 - v1.4.95
 1. Provides an option to bypass PoI (Proof of Identity) based on License module configuration
 2. Provides one step passport scan feature
