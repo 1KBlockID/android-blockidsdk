@@ -1,6 +1,5 @@
 # Change Logs
 
-# Change Logs
 - v1.4.96
 1. Provides Document Verification Service for face liveness check
 
