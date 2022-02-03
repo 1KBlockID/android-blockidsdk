@@ -1,5 +1,8 @@
 # Change Logs
 
+- v1.4.97
+1. Bug fix- Scan liveID with liveness check is not working on LG device
+
 - v1.4.96
 1. Provides Document Verification Service for face liveness check
 
