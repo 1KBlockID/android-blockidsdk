@@ -1,5 +1,8 @@
 # Change Logs
 
+- v1.4.98
+1. Provides one step NationalID back scan feature
+
 - v1.4.97
 1. Bug fix- Scan liveID with liveness check is not working on LG device
 
