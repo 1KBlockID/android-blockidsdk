@@ -1,7 +1,7 @@
 # Change Logs
 
 - v1.4.99
-1. Bug fix- SDK throws error 'invalid driver license' when the user scans the back side of any Driver license
+1. Bug fix - SDK throws error 'invalid driver license' when the user scans the back side of any driver license
 
 - v1.4.98
 1. Provides one step NationalID back scan feature
