@@ -1,5 +1,10 @@
 # Change Logs
 
+- v1.4.100
+1. Bugs fixed
+   - SDK throws error code 436 during document registration
+   - LiveID scan should reset when user's face is out of focus
+    
 - v1.4.99
 1. Bug fix - SDK throws error 'invalid driver license' when the user scans the back side of any driver license
 
