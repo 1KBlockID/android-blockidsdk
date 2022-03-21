@@ -1,5 +1,8 @@
 # Change Logs
 
+- v1.6.00
+1. Bugs fixed
+
 - v1.4.100
 1. Bugs fixed
    - SDK throws error code 436 during document registration
