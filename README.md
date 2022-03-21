@@ -1,6 +1,6 @@
 # Change Logs
 
-- v1.4.100
+- v1.6.00
 1. Bugs fixed
 
 - v1.4.100
