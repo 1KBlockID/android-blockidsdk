@@ -1,5 +1,8 @@
 # Change Logs
 
+- v1.6.10
+1. Added additional events for analytics
+
 - v1.6.00
 1. Bugs fixed
 
