@@ -1,4 +1,7 @@
 # Change Logs
+- v1.6.20
+1. Introduce capability to register and authenticate FIDO2 security keys
+2. Bug Fixed
 
 - v1.6.10
 1. Added additional events for analytics
