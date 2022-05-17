@@ -1,4 +1,7 @@
 # Change Logs
+- v1.7.20 
+1. Bug Fixed
+
 - v1.7.00
 1. Introduced new method to set dvcId (document verifier connector identifier)
 2. Modify verifyDocument() method signature for verifications type parameter
