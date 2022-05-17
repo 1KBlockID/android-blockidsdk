@@ -1,4 +1,9 @@
 # Change Logs
+- v1.7.00
+1. Introduced new method to set dvcId (document verifier connector identifier)
+2. Modify verifyDocument() method signature for verifications type parameter
+3. Enhance face compare
+
 - v1.6.20
 1. Introduce capability to register and authenticate FIDO2 security keys
 2. Bug Fixed
