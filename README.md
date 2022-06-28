@@ -1,4 +1,8 @@
 # Change Logs
+- v1.7.30
+1. Returns date in yyyyMMdd format after document scan 
+2. Error handling for various APIs
+
 - v1.7.20 
 1. Bug Fixed
 
