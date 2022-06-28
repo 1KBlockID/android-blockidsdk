@@ -1,4 +1,8 @@
 # Change Logs
+- v1.7.40
+1. Bugs fixed
+   - SDK throws error K_SOMETHING_WENT_WRONG during authentication (when scope = windows)
+
 - v1.7.30
 1. Returns date in yyyyMMdd format after document scan 
 2. Error handling for various APIs
