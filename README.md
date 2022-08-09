@@ -1,8 +1,13 @@
+# BlockID SDK
+- Overview - https://developer.1kosmos.com/devportal/docs/mobile-sdk/overview
+- Integration Guide - https://developer.1kosmos.com/devportal/docs/mobile-sdk/android/integration-guide
+- API Reference - https://developer.1kosmos.com/devportal/docs/mobile-sdk/android/api-reference
+
 # Change Logs
 ## v1.7.50
 - Updated error code for license check
 
-##v1.7.40
+## v1.7.40
 - Bugs fixed - SDK throws error K_SOMETHING_WENT_WRONG during authentication (when scope = windows)
 
 ## v1.7.30
