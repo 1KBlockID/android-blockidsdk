@@ -4,6 +4,10 @@
 - API Reference - https://developer.1kosmos.com/devportal/docs/mobile-sdk/android/api-reference
 
 ## Change Logs
+
+### v1.7.52
+- Returns error during user linking flow w.r.t Sim Binding capability
+
 ### v1.7.50
 - Updated error code for license check
 
