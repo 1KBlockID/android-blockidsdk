@@ -5,6 +5,11 @@
 
 ## Change Logs
 
+### v1.8.00
+- upgraded gradle dependency wrapper
+- Register FIDO2 key
+- Renew smart card certificates
+
 ### v1.7.52
 - Returns error during user linking flow w.r.t Sim Binding capability
 
