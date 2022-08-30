@@ -6,10 +6,10 @@
 ## Change Logs
 
 ### v1.8.02
-Crash fixed during account recovery process using recovery phrases
+- Crash fixed during account recovery process using recovery phrases
 
 ### v1.8.00
-- upgraded gradle dependency wrapper
+- upgraded gradle dependency and wrapper
 - Register FIDO2 key
 - Renew smart card certificates
 
