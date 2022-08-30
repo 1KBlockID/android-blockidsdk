@@ -7,9 +7,9 @@
 
 ### v1.8.10
 - Introduced capability
--- to connect BlockID wallet to DApps (decentralised application)
--- for transaction signing
--- for personal signing
+- - to connect BlockID wallet to DApps (decentralised application)
+- - for transaction signing
+- - for personal signing
 
 ### v1.8.02
 - Crash fixed during account recovery process using recovery phrases
