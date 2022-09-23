@@ -5,6 +5,9 @@
 
 ## Change Logs
 
+### v1.8.03
+- Change isSdkLocked() method to isSDKUnLocked()
+
 ### v1.8.02
 - Crash fixed during account recovery process using recovery phrases
 
