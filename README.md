@@ -6,9 +6,6 @@
 ## Change Logs
 
 ### v1.8.10
-- Change isSdkLocked() method to isSDKUnLocked() 
-
-### v1.8.10
 - Introduced capability
    - to connect BlockID wallet to DApps (decentralised application)
    - for transaction signing
