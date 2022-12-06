@@ -5,6 +5,9 @@
 
 ## Change Logs
 
+### v1.8.30
+- Improved Live ID registration and verification with liveness check
+
 ### v1.8.10
 - Introduced capability
    - to connect BlockID wallet to DApps (decentralised application)
