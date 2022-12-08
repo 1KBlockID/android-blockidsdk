@@ -4,7 +4,9 @@
 - API Reference - https://developer.1kosmos.com/devportal/docs/mobile-sdk/android/api-reference
 
 ## Change Logs
-
+### v1.8.30
+- Introduce Native FIDO2 Capability
+  
 ### v1.8.10
 - Introduced capability
    - to connect BlockID wallet to DApps (decentralised application)
