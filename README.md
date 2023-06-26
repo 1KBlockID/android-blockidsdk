@@ -8,15 +8,13 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.9.30.6465D938'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.9.40.6495ABDF'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
 
-### v1.9.30
+### v1.9.40
 
-- Added a new function to consume Verifiable Credentials
-- Added a new function to generate Verifiable Presentations which allows for the sharing of VCs with verifiers
-- Fixed FIDO2 authentication failure caused by multiple registrations of the same security key for a user. Now, one security key can only be registered once for a user, ensuring unique and secure authentication
+- Added a new function to restore accounts and wallets by scanning QR Code
