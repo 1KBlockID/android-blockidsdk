@@ -16,7 +16,7 @@
 ## Change Logs
 
 ### v1.9.40
-- Added a new function to fetch user document which is registered against application DID
+- Added a new function to fetch user documents which are registered against application DID
 - Added a new function to update linked account Device Info and Push ID
 
 ### v1.9.30
