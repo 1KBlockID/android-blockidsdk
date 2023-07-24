@@ -15,7 +15,7 @@
 
 ## Change Logs
 
-### v1.9.40
+### v1.9.50
 - Handled auth requests for linked accounts when tenant has two DNS mappings.
 - Improved the FIDO2 security key registration and authentication process.
 - Updated the FIDO2 security function to require pin verification before registering or authenticating the FIDO2 security key.
