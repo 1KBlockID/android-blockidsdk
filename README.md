@@ -8,12 +8,15 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.9.50.64BE5DD8'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.9.51.64D4FAAF'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.9.51
+- Fixed unintended NFC prompts and crashes caused by the Fido2Authenticator SDK's intent-filter configuration.
 
 ### v1.9.50
 - Handled auth requests for linked accounts when tenant has two DNS mappings.
