@@ -16,7 +16,7 @@
 ## Change Logs
 
 ### v1.9.51
-- Bug Fixes related to custom FIDO2 NFC fetaures.
+- Fixed unintended NFC prompts and crashes caused by the Fido2Authenticator SDK's intent-filter configuration.
 
 ### v1.9.50
 - Handled auth requests for linked accounts when tenant has two DNS mappings.
