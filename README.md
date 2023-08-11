@@ -15,6 +15,9 @@
 
 ## Change Logs
 
+### v1.9.51
+- Bug Fixes related to custom FIDO2 NFC fetaures.
+
 ### v1.9.50
 - Handled auth requests for linked accounts when tenant has two DNS mappings.
 - Improved the FIDO2 security key registration and authentication process.
