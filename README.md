@@ -8,12 +8,17 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.9.51.64D4FAAF'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.9.60.64E73B96'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.9.60
+- Use user define device name during instead of device make and model
+- Removed used gradle dependencies
+- Fixed functions typo errors
 
 ### v1.9.51
 - Fixed unintended NFC prompts and crashes caused by the Fido2Authenticator SDK's intent-filter configuration.
