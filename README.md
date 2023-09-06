@@ -16,8 +16,8 @@
 ## Change Logs
 
 ### v1.9.60
-- Use user define device name during instead of device make and model
-- Removed used gradle dependencies
+- Used user define device name instead of device make and model
+- Removed unused gradle dependencies
 - Fixed functions typo errors
 
 ### v1.9.51
