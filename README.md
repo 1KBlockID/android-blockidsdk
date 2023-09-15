@@ -15,6 +15,9 @@
 
 ## Change Logs
 
+### v1.9.70
+- Enhanced device details now include device name, make and model for improved reporting capabilities.
+
 ### v1.9.60
 - Used user define device name instead of device make and model
 - Removed unused gradle dependencies
