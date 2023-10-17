@@ -8,12 +8,17 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.9.70.650420CD'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.9.80.651FBD33'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.9.80
+- Added a new function to issue a scep certificate for non scep users
+- Fixed a bug where a wrong error was being returned during FIDO2 security key authentication
+- Updated IP Address provider to efficiently fetch and cache IP addresses
 
 ### v1.9.70
 - Enhanced device details now include device name, make and model for improved reporting capabilities.
