@@ -8,12 +8,15 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.9.80.651FBD33'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.9.83.655DAA9E'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.9.83
+-  Fixed error handling for ACR code redemption
 
 ### v1.9.80
 - Added a new function to issue a scep certificate for non scep users
