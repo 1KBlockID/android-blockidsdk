@@ -15,6 +15,9 @@
 
 ## Change Logs
 
+### v1.10.00
+-  Just a version bump-up to aligned releases
+
 ### v1.9.90
 -  The legacy scanners have been substituted with a new web based ID proofing experience 
 -  Introduced FIDO2 Pin Management functionality
