@@ -8,12 +8,15 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.9.90.659BF109'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.10.00.65B77454'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.10.00
+-  Just a version bump-up to aligned releases
 
 ### v1.9.90
 -  The legacy scanners have been substituted with a new web based ID proofing experience 
