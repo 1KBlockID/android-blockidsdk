@@ -8,12 +8,16 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.10.00.65B77454'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.10.10.65E6D625'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.10.10
+- Updated tenant registration to derive root tenant if the application supplies client tenant
+- Added restoration of wallet and documents through LiveID Selfie
 
 ### v1.10.00
 -  Just a version bump-up to aligned releases
