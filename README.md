@@ -15,6 +15,10 @@
 
 ## Change Logs
 
+### v1.10.21
+- Added events for app reset and account removal.
+- Changed the prototype for resetSDK() for recording the reason.
+
 ### v1.10.20
 - Removed expressions prompts during LiveID scanning.
 - Added Android 14 support.
