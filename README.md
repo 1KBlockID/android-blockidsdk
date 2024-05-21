@@ -16,7 +16,7 @@
 ## Change Logs
 
 ### v1.10.30
-- dded FacePresenceLevel for LiveID scan.
+- Added FacePresenceLevel for LiveID scan.
 - Updated authenticate user function to record auth factor.
 - Bug fixes
 
