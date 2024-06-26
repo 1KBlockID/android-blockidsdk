@@ -8,12 +8,15 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.10.32.666BEB0D'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.10.40.667AA249'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.10.40 
+- Bug fixes
 
 ### v1.10.32
 - Removed WalletConnect
