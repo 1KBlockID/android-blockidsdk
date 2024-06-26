@@ -8,12 +8,15 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.10.30.66472E36'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.10.32.666BEB0D'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.10.32
+- Removed WalletConnect
 
 ### v1.10.30
 - Added FacePresenceLevel for LiveID scan.
