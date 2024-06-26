@@ -14,9 +14,9 @@
 > - This repository does not carry the binary
 
 ## Change Logs
-- Bug fixes
 
 ### v1.10.40 
+- Bug fixes
 
 ### v1.10.32
 - Removed WalletConnect
