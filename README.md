@@ -15,6 +15,10 @@
 
 ## Change Logs
 
+### v1.10.50
+- Enhanced passive liveid messaging by adding error code and message
+- Changed QR code scanning to work on non-gms devices
+  
 ### v1.10.40 
 - Bug fixes
 
