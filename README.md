@@ -8,7 +8,7 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.10.50.669F81C1'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.10.50.66AB3F6F'
 
 > **Notes**:
 > - This repository does not carry the binary
@@ -16,7 +16,8 @@
 ## Change Logs
 
 ### v1.10.50
-- Enhanced passive liveid messaging by adding error code and message
+- Enhanced passive LiveID messaging by adding an error code and message
+- Always show the capture button during LiveID scanning.
 - Changed QR code scanning to work on non-gms devices
   
 ### v1.10.40 
