@@ -8,12 +8,17 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.10.50.66AB3F6F'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.10.60.66D05C17'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.10.60
+- Remove use of jcenter() 
+- Updated network library so that it will fetch from jitpack.io and not from jcenter()
+- Bug fixes 
 
 ### v1.10.50
 - Enhanced passive LiveID messaging by adding an error code and message
