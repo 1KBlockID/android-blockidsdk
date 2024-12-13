@@ -8,12 +8,15 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.10.71.6735C6D3'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.10.80.673DE503'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.10.80
+- Code clean up (Removed addNativeAccount function which was used to add account using UWL1 QR code)
 
 ### v1.10.71
 - Bug fixed related to camera start while scanning QR or LiveID 
