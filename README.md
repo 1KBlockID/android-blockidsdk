@@ -15,6 +15,9 @@
 
 ## Change Logs
 
+### v1.10.71
+- Bug fixed related to camera start while scanning QR or LiveID 
+
 ### v1.10.70
 - Introduced live id identifiers
 - Bug fixes
