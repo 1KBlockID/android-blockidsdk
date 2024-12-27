@@ -15,6 +15,9 @@
 
 ## Change Logs
 
+### v1.10.90 
+- Added functionality to get removed accounts
+
 ### v1.10.80
 - Code clean up (Removed addNativeAccount function which was used to add account using UWL1 QR code)
 
