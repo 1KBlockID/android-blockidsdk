@@ -8,12 +8,16 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.20.10.67C015DE'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.20.20.67DC1B37'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.20.20
+- Updated caching duration for fetch configuration api
+- Bug fixes and other improvements
 
 ### v1.20.10
 - Updated default trusted sources
