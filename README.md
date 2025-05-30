@@ -8,12 +8,18 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.20.20.67DC1B37'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.20.30.68272E83'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.20.30
+- Upgraded AGP version to 8.8.0 
+- Upgraded Java version to 17
+- Remove support for Android 7.1 hence minSdkVersion set to 26 
+- Bug fixes
 
 ### v1.20.20
 - Updated caching duration for fetch configuration api
