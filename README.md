@@ -15,6 +15,9 @@
 
 ## Change Logs
 
+### v1.20.54
+- Fixed an issue on removing account
+
 ### v1.20.53
 - Added updateAccounts function
 
