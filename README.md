@@ -15,6 +15,9 @@
 
 ## Change Logs
 
+### v1.20.55
+- Added support for Passkey registration and verification
+
 ### v1.20.54
 - Fixed an issue on removing account
 
