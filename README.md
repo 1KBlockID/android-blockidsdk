@@ -8,12 +8,19 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.20.55.68CBE323'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.20.60.68F275C2'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.20.60
+- Updated the account transfer logic during account restoration 
+- Added a public function to fetch community configurations 
+- Enhanced the fetch-config API to accept a key-path parameter 
+- Improved Passkey event reporting 
+- Added accounts_json scope to return stored accounts JSON when resolving UWL sessions
 
 ### v1.20.55
 - Added support for Passkey registration and verification
