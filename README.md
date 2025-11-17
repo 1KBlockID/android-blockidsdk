@@ -16,8 +16,11 @@
 ## Change Logs
 
 ### v1.20.60
-- Updated logic of account transfer while restoring 
-- Added a public function to fetch community configurations
+- Updated the account transfer logic during account restoration 
+- Added a public function to fetch community configurations 
+- Enhanced the fetch-config API to accept a key-path parameter 
+- Improved Passkey event reporting 
+- Added accounts_json scope to return stored accounts JSON when resolving UWL sessions
 
 ### v1.20.55
 - Added support for Passkey registration and verification
