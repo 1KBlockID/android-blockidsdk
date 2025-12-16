@@ -15,6 +15,9 @@
 
 ## Change Logs
 
+### v1.20.70
+- Added function to set Linked account JSON
+
 ### v1.20.60
 - Updated the account transfer logic during account restoration 
 - Added a public function to fetch community configurations 
