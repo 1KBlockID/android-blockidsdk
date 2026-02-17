@@ -8,14 +8,19 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.20.80.69414286'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.20.90.69660287'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
 
-#### v1.20.80
+### v1.20.90
+- Removed otp seed from shared account object after authentication 
+- Removed Workstation OTP, SCEP and Windows login related implementation 
+- Bug fixes and improvements
+
+### v1.20.80
 - Added support for UID in Document Scanning. The SDK now allows passing a UID parameter while starting the document scanning process.
 - Updated SG tenant configuration to support trusted session sources.
 
