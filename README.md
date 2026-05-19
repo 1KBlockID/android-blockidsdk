@@ -8,12 +8,17 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.30.00.6994A867'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.30.10.69C634D7'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.30.10
+- Updated Document Scanning API integration to use DocuVerify V3 APIs.
+- Updated Passkey registration flow to use `username` instead of `dguid`.
+- Fixed error handling issues in the Fetch Account Info API.
 
 ### v1.30.00
 - Added Android 16 support.
