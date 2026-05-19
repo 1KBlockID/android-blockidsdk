@@ -8,12 +8,16 @@
 
 - BlockID SDK is available through Gradle dependency.
 - To install it, simply add the following line to your build.gradle\
-  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.20.90.69660287'
+  implementation 'com.onekosmos.blockid.sdk:blockidsdk:1.30.00.6994A867'
 
 > **Notes**:
 > - This repository does not carry the binary
 
 ## Change Logs
+
+### v1.30.00
+- Added Android 16 support.
+- Updated deprecated Back Press handling implementation to the latest Android APIs.
 
 ### v1.20.90
 - Removed otp seed from shared account object after authentication 
